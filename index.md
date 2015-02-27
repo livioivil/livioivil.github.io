@@ -5,6 +5,8 @@ output:
     css: css/main.css
 layout: default
 ---
+  	<div class="blurb">
+
 # Hi there, I'm Hank Quinlan!
 
 I'm best known as the horrible cop from <em>A Touch of Evil</em>. Don't trust me. <a href="/about">
