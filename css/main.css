@@ -1,11 +1,10 @@
 body { 
      background: url('https://homes.stat.unipd.it/sites/all/immagini/liviofinos.jpg') no-repeat center center fixed;    
-     background-size:cover;  /*For covering full page*/
      margin: 60px auto; width: 70%; 
 }
 
 #play_button {
-    position:relative;
+    position:absolute;
     transition: .5s ease;
     top: 50%;
     left: 50%;
