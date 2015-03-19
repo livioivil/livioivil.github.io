@@ -5,7 +5,7 @@ body {
 }
 
 #play_button {
-    position:absolute;
+    position:relative;
     transition: .5s ease;
     top: 50%;
     left: 50%;
