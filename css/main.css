@@ -9,16 +9,9 @@ body {
     transition: .5s ease;
     top: 50%;
     left: 50%;
-     -webkit-border-radius: 42;
-  -moz-border-radius: 42;
-  border-radius: 42px;
-  font-family: Arial;
-  font-size: 49px;
-  padding: 5px 20px 10px 20px;
-  text-decoration: none;
-  border: none;
-   background-color: Transparent;
-
+    background: transparent;
+    border: none !important;
+    font-size:0;
 }
 #play_button:hover { 
       text-decoration: none;
