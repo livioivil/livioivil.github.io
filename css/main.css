@@ -16,6 +16,7 @@ body {
   font-size: 49px;
   padding: 5px 20px 10px 20px;
   text-decoration: none;
+   background-color: Transparent;
 
 }
 #play_button:hover { 
