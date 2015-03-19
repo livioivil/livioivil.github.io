@@ -9,9 +9,13 @@ body {
     transition: .5s ease;
     top: 50%;
     left: 50%;
-    background: transparent;
-    border: none !important;
-    font-size:0;
+background:transparent;
+    border:none;
+    outline:none;
+    display:block;
+    height:200px;
+    width:200px;
+    cursor:pointer;
 }
 #play_button:hover { 
       text-decoration: none;
