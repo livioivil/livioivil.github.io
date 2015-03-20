@@ -1,6 +1,26 @@
 body { 
+     background: url('https://homes.stat.unipd.it/sites/all/immagini/liviofinos.jpg') no-repeat center center fixed;    
      margin: 60px auto; width: 70%; 
 }
+
+
+#play_button {
+    position:absolute;
+    transition: .5s ease;
+    top: 50%;
+    left: 50%;
+background:transparent;
+    border:none;
+    outline:none;
+    display:block;
+    height:200px;
+    width:200px;
+    cursor:pointer;
+}
+#play_button:hover { 
+      text-decoration: none;
+} 
+
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
