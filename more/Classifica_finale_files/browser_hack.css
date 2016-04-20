@@ -1,0 +1,23 @@
+/* http://css-tricks.com/snippets/css/browser-specific-hacks/         */
+/* http://mynthon.net/howto/webdev/css-hacks-for-google-chrome.html   */
+/* http://stackoverflow.com/questions/16348489/is-there-a-css-hack-for-safari-only-not-chrome */
+
+/* HACK SOLO CHROME E SAFARI */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  #header_menu li a {
+    /* HACK SOLO SAFARI */
+    -bracket-:hack[;
+      font-weight: 600;
+    ];
+  }
+  #header_login a {
+    -bracket-:hack[;
+      font-weight: 600;
+    ];
+  }
+  #logout {
+    -bracket-:hack[;
+      font-weight: 600;
+    ];
+  }
+}
