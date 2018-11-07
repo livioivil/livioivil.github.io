@@ -12,7 +12,11 @@ Teacher: [Livio Finos](https://www.liviofinos.net)
 # Some teaching material 
   
 
-|  Lecture    | Slides (html) | Booklet (html)| Booklet (pdf)|Booklet (Rmd)|
+
+|  Lecture    | Slides (html) | Booklet (html)| Booklet (Rmd)|Booklet (pdf)|
 |--------------|--------|-------|-------|-------|
-| *Hypothesis Testing and Confidence Intervals* | [slides](https://github.com/livioivil/inference_basics/blob/master/chap1_inference.html) |  [ booklet](https://github.com/livioivil/inference_basics/blob/master/chap1_inference_booklet.html)| [slides](https://github.com/livioivil/inference_basics/blob/master/chap1_inference.pdf)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/chap1_inference.Rmd)|
-| *Linear Model* | |  [ booklet](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.html)| [ booklet](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.pdf)| [Rmd ](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.Rmd)|
+| *Hypothesis Testing and Confidence Intervals* | [Slides](https://github.com/livioivil/inference_basics/blob/master/inference.html) |  [html](https://github.com/livioivil/inference_basics/blob/master/inference_booklet.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/inference_booklet.Rmd)| [pdf](https://github.com/livioivil/inference_basics/blob/master/inference_booklet.pdf)|
+| *Linear Model* | |  [html](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.Rmd)| [pdf](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.pdf)|
+| *Repeated Measures and Linear Mixed Model* | |  [html](https://github.com/livioivil/inference_basics/blob/master/RepeatedMeasures_MixedModels_for_EEGdata.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/RepeatedMeasures_MixedModels_for_EEGdata.Rmd)| [pdf ](https://github.com/livioivil/inference_basics/blob/master/RepeatedMeasures_MixedModels_for_EEGdata.pdf)|
+
+
