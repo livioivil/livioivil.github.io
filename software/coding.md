@@ -1,12 +1,13 @@
 ---
-layout: default
-title: coding and software
-output: 
-  html_document: 
-    self_contained: no
+title: "**Coding and Software**"
+output:
+  html_document:
     toc: yes
 ---
+
+Author: [Livio Finos](https://www.liviofinos.net)
 <div class="software">
+
 <a href="https://github.com/livioivil">more @ Github</a>
 
 Bugs are always possible, I make my best to provide a new release averytime I found them.
