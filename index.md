@@ -1,6 +1,6 @@
 ---
 title: "Livio's Hub"
-author: "Livio Finos @ DPSS, University of Padua"
+author: "[Livio Finos](https:\\www.liviofinos.net) @ DPSS, University of Padua"
 date: "+39 0498276519 - livio.finos@unipd.it"
 output: 
   html_document: 
@@ -33,9 +33,6 @@ output:
 
 - [List of packages and softwares](./software/coding.html)  
 - <a href="https://github.com/livioivil">more @ Github</a>
-
-Bugs are always possible, I make my best to provide a new release averytime I found them.
-Please report bugs to: 'livio.finos@unipd.it'. Peculiarities, feedback and general queries on the use and theory of the software are also welcomed.
 
 
 

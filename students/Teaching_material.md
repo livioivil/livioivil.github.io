@@ -33,8 +33,8 @@ Teacher: [Livio Finos](https://www.liviofinos.net)
 **Other (in italian)**
 
 
-- Modello Lineare Semplice e Multiplo. Inferenza tra permutazioni e distribuzione normale <a href="./slidesRegressione">slides</a>  
-- Test di permutazione - Una lezione con applicazioni tramite liberia R: flip <a href="./flipEsempio" >link all'html</a>
+- Modello Lineare Semplice e Multiplo. Inferenza tra permutazioni e distribuzione normale <a href="./slidesRegressione.html">slides</a>  
+- Test di permutazione - Una lezione con applicazioni tramite liberia R: flip <a href="./flipEsempio.html" >link all'html</a>
 
 
 # Tesi (in italian) <a name="tesi"></a>

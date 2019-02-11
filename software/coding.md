@@ -1,12 +1,12 @@
 ---
 title: "**Coding and Software**"
+author: "Author: [Livio Finos](https://www.liviofinos.net)"
 output:
   html_document:
     toc: yes
+    toc_float: yes
 ---
 
-Author: [Livio Finos](https://www.liviofinos.net)
-<div class="software">
 
 <a href="https://github.com/livioivil">more @ Github</a>
 
