@@ -1,10 +1,9 @@
 ---
-title: "Livio's Hub"
-author: "[Livio Finos](https:\\www.liviofinos.net) @ DPSS, University of Padua"
+title: "[Livio Finos](https:\\www.liviofinos.net) @ DPSS, University of Padua"
 date: "+39 0498276519 - livio.finos@unipd.it"
 output: 
   html_document: 
-    toc: yes
+    toc: no
     # toc_float: yes
 ---
 
@@ -13,7 +12,7 @@ output:
 <!-- - <strong><a href="http://dpss.unipd.it">D.P.S.S.</a></strong>, Via Venezia, 8. Padua, Italy 35131   -->
 <!-- - +39 0498276519   -->
 <!-- - livio.finos@unipd.it   -->
-- <a mce_real_href="/cv/finos_livio_cv.pdf" target="_blank" href="/cv/finos_livio_cv.pdf">download cv (pdf) </a>
+<a mce_real_href="/cv/finos_livio_cv.pdf" target="_blank" href="/cv/finos_livio_cv.pdf">Download CV (pdf) </a>
 
 # Research
 
