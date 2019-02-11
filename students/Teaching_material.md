@@ -1,13 +1,10 @@
 ---
 title: "**Didactic**"
+author: "Author: [Livio Finos](https://www.liviofinos.net)"
 output:
   html_document:
     toc: yes
 ---
-
-Teacher: [Livio Finos](https://www.liviofinos.net)
-
-
 
 # Some teaching material 
   
