@@ -38,7 +38,7 @@ output:
 
 - [Winter School: Beyond p < .05: Modern statistical approaches in psychological science](https://www.dpss.unipd.it/winter-school-2019/home) @UniPD - 8-22 Feb 2019  
 
-- [Workshop: New Perspectives in Multiple Testing - 80 Years after Bonferroni](./80Ferroni/index.html) @UniPD - 9 Oct 2015
+- [Workshop: New Perspectives in Multiple Testing - 80 Years after Bonferroni](./80nferroni/80nferroni.html) @UniPD - 9 Oct 2015
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
