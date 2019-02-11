@@ -5,7 +5,7 @@ date: "+39 0498276519 - livio.finos@unipd.it"
 output: 
   html_document: 
     toc: yes
-    toc_float: yes
+    # toc_float: yes
 ---
 
 <!-- # Info -->

@@ -2,7 +2,7 @@
 title: "**Didactic**"
 output:
   html_document:
-    toc: no
+    toc: yes
 ---
 
 Teacher: [Livio Finos](https://www.liviofinos.net)
