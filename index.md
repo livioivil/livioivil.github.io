@@ -1,6 +1,6 @@
 ---
-title: "[Livio Finos](index.html) @ DPSS, University of Padua"
-author: "`+39 0498276519 - livio.finos@unipd.it`"
+title: "[Livio Finos](index.html) @ University of Padova"
+# author: "DPSS & Padova NeuroSciece Center\n `+39 0498276519; livio.finos@unipd.it`"
 output: 
   html_document: 
     toc: no
@@ -12,7 +12,11 @@ output:
 <!-- - <strong><a href="http://dpss.unipd.it">D.P.S.S.</a></strong>, Via Venezia, 8. Padua, Italy 35131   -->
 <!-- - +39 0498276519   -->
 <!-- - livio.finos@unipd.it   -->
-<a mce_real_href="/cv/finos_livio_cv.pdf" target="_blank" href="/cv/finos_livio_cv.pdf">Download CV (pdf) </a>
+- [DPSS](http://dpss.unipd.it/) & 
+[Padova NeuroScience Center](http://pnc.unipd.it/) 
+- +39 0498276519; 
+- `livio.finos@unipd.it`
+- <a mce_real_href="/cv/finos_livio_cv.pdf" target="_blank" href="/cv/finos_livio_cv.pdf">Download CV (pdf) </a>
 
 # Research
 
