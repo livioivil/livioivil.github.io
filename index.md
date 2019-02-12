@@ -1,6 +1,6 @@
 ---
 title: "[Livio Finos](index.html) @ DPSS, University of Padua"
-date: "+39 0498276519 - livio.finos@unipd.it"
+date: "`+39 0498276519 - livio.finos@unipd.it`"
 output: 
   html_document: 
     toc: no
