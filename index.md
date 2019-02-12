@@ -23,8 +23,8 @@ output:
 
 # Teaching
 
-- [Teaching@UniPD](https://didattica.unipd.it/off/docente/750F8EE82FAC8ACA50EE69F79F75D23E)  
 - <a href="./students/Teaching_material.html">Some teaching material</a>  
+- [Teaching@UniPD](https://didattica.unipd.it/off/docente/750F8EE82FAC8ACA50EE69F79F75D23E)  
 - <a href="./students/Teaching_material.html#tesi">Tesi (in italian)</a>
 
 
