@@ -96,6 +96,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -103,14 +106,74 @@ button.code-folding-btn:focus {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -130,7 +193,7 @@ $(document).ready(function () {
 <!-- - +39 0498276519   -->
 <!-- - livio.finos@unipd.it   -->
 <ul>
-<li><a href="http://dpss.unipd.it/">DPSS</a> &amp; <a href="http://pnc.unipd.it/">Padova NeuroScience Center</a></li>
+<li><a href="http://dpss.psy.unipd.it/psicostat/index.html">PsicoStat</a> + <a href="http://dpss.unipd.it/">DPSS</a> + <a href="http://pnc.unipd.it/">Padova NeuroScience Center</a></li>
 <li>+39 0498276519;</li>
 <li><code>livio.finos@unipd.it</code></li>
 <li><a mce_real_href="/cv/finos_livio_cv.pdf" target="_blank" href="/cv/finos_livio_cv.pdf">Download CV (pdf) </a></li>
@@ -138,11 +201,18 @@ $(document).ready(function () {
 <div id="research" class="section level1">
 <h1>Research</h1>
 <ul>
+<li>Networks
+<ul>
+<li><a href="http://dpss.psy.unipd.it/psicostat/">PsicoStat@UniPD</a></li>
+</ul></li>
+<li>Pubblications
+<ul>
 <li><a href="http://scholar.google.it/citations?hl=en&amp;user=th0DaUwAAAAJ"><span class="citation">@GoogleScholar</span></a><br />
 </li>
 <li><a href="https://www.researchgate.net/profile/Livio_Finos"><span class="citation">@ResearchGate</span></a><br />
 </li>
 <li><a href="https://www.research.unipd.it/browse?type=author&amp;authority=rp18289&amp;sort_by=2&amp;order=DESC&amp;rpp=100&amp;etal=0&amp;submit_browse=Aggiorna#.XGHop1xKg2w"><span class="citation">@research.unipd</span></a></li>
+</ul></li>
 </ul>
 </div>
 <div id="teaching" class="section level1">

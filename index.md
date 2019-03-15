@@ -12,7 +12,7 @@ output:
 <!-- - <strong><a href="http://dpss.unipd.it">D.P.S.S.</a></strong>, Via Venezia, 8. Padua, Italy 35131   -->
 <!-- - +39 0498276519   -->
 <!-- - livio.finos@unipd.it   -->
-- [DPSS](http://dpss.unipd.it/) & 
+- [PsicoStat](http://dpss.psy.unipd.it/psicostat/index.html) + [DPSS](http://dpss.unipd.it/) + 
 [Padova NeuroScience Center](http://pnc.unipd.it/) 
 - +39 0498276519; 
 - `livio.finos@unipd.it`
@@ -20,9 +20,13 @@ output:
 
 # Research
 
-- <a href="http://scholar.google.it/citations?hl=en&user=th0DaUwAAAAJ">@GoogleScholar</a>  
-- <a href="https://www.researchgate.net/profile/Livio_Finos">@ResearchGate</a>  
-- <a href="https://www.research.unipd.it/browse?type=author&authority=rp18289&sort_by=2&order=DESC&rpp=100&etal=0&submit_browse=Aggiorna#.XGHop1xKg2w">@research.unipd</a>
+- Networks
+    - [PsicoStat@UniPD](http://dpss.psy.unipd.it/psicostat/)
+
+- Pubblications  
+    - <a href="http://scholar.google.it/citations?hl=en&user=th0DaUwAAAAJ">@GoogleScholar</a>  
+    - <a href="https://www.researchgate.net/profile/Livio_Finos">@ResearchGate</a>  
+    - <a href="https://www.research.unipd.it/browse?type=author&authority=rp18289&sort_by=2&order=DESC&rpp=100&etal=0&submit_browse=Aggiorna#.XGHop1xKg2w">@research.unipd</a>
 
 
 # Teaching
