@@ -27,7 +27,7 @@ A R package for multivariate permutation tests.
 <a class="mceItemAnchor" title="flip_extra" href="https://rawgit.com/livioivil/flip_extra/master/README.html" target="_blank" mce_real_href="https://rawgit.com/livioivil/flip_extra/master/README.html">web material with some example</a>
 
 ## flipscore
-<a class="mceItemAnchor" title="flipscore" href="http://cran.r-project.org/web/packages/flipscore" target="_blank" mce_real_href="http://cran.r-project.org/web/packages/flipscore">**flipscore**</a>
+<a class="mceItemAnchor" title="flipscore" href="http://cran.r-project.org/web/packages/flipscore" target="_blank" mce_real_href="http://cran.r-project.org/web/packages/flipscores">**flipscores**</a>
 A R package for robust score test with permutation tests.
 
 
