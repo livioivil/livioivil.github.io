@@ -1,6 +1,6 @@
 ---
 title: "**Coding and Software**"
-author: "Author: [Livio Finos](https://www.liviofinos.net)"
+author: "Author: [Livio Finos](https://livioivil.github.io/)"
 output:
   html_document:
     toc: yes
