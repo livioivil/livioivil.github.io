@@ -17,6 +17,7 @@ output:
 | *Multiple Testing in Neuroscience*  | [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/fMRI_multiple_testing.html)|[Rmd](https://github.com/livioivil/inference_basics/blob/master/fMRI_multiple_testing.Rmd)|[pdf](https://github.com/livioivil/inference_basics/blob/master/fMRI_multiple_testing.pdf)|
 | *Contrasting Contrasts (Psicostat 18/11/2019)* (italian) | [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/contrastanti_e_correlati.html)|[Rmd](https://github.com/livioivil/inference_basics/blob/master/contrastanti_e_correlati.Rmd)|[pdf](https://github.com/livioivil/inference_basics/blob/master/contrastanti_e_correlati.pdf)|
  
+GitHub repository: <https://github.com/livioivil/inference_basics>
 <!---
 <li> Appunti del corso Classificazione e Analisi di Dati Multidimensionali (parte di Statistica Multivariata): <a href="https://dl.dropboxusercontent.com/u/2487724/CADM/DispensaMultivariata.pdf" >link to pdf</a></li> 
  <li> <a href="https://dl.dropboxusercontent.com/u/2487724/didactic/TestStat.pdf" >L'in(ter)ferenza statistica nella sperimentazione clinica e tecnologica </a>
