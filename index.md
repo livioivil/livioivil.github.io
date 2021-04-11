@@ -16,7 +16,7 @@ output:
 [Padova NeuroScience Center](http://pnc.unipd.it/) 
 - +39 0498276519; 
 - `livio.finos@unipd.it`
-- <a mce_real_href="/cv/finos_livio_cv.pdf" target="_blank" href="/cv/finos_livio_cv.pdf">Download CV (pdf) </a>
+- <a mce_real_href="/cv/livio_finos_cv.pdf" target="_blank" href="/cv/livio_finos_cv.pdf">Download CV (pdf) </a>
 
 # Research
 
@@ -24,7 +24,7 @@ output:
     - [PsicoStat@UniPD](http://dpss.psy.unipd.it/psicostat/)
 
 - Pubblications  
-    - <a href="http://scholar.google.it/citations?hl=en&user=th0DaUwAAAAJ">@GoogleScholar</a>  
+    - <a href="https://scholar.google.it/citations?hl=en&user=th0DaUwAAAAJ&view_op=list_works&sortby=pubdate">@GoogleScholar</a>  
     - <a href="https://www.researchgate.net/profile/Livio_Finos">@ResearchGate</a>  
     - <a href="https://www.research.unipd.it/browse?type=author&authority=rp18289&sort_by=2&order=DESC&rpp=100&etal=0&submit_browse=Aggiorna#.XGHop1xKg2w">@research.unipd</a>
 
