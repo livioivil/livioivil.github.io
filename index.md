@@ -14,9 +14,9 @@ output:
 <!-- - livio.finos@unipd.it   -->
 - [PsicoStat](http://ip146179.psy.unipd.it/psicostat/web/) + [Dept Stat Sci](http://stat.unipd.it/) + 
 [Padova NeuroScience Center](http://pnc.unipd.it/) 
-- +39 0498276519; 
+- +39 0498274146; 
 - `livio.finos@unipd.it`
-- <a mce_real_href="/cv/livio_finos_cv.pdf" target="_blank" href="/cv/livio_finos_cv.pdf">Download CV (pdf) </a>
+- <a mce_real_href="https://github.com/livioivil/livioivil.github.io/raw/master/cv/finos_livio_cv.pdf" target="_blank" href="https://github.com/livioivil/livioivil.github.io/raw/master/cv/finos_livio_cv.pdf">Download CV (pdf) </a>
 
 # Research
 
