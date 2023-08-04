@@ -12,7 +12,7 @@ output:
 <!-- - <strong><a href="http://dpss.unipd.it">D.P.S.S.</a></strong>, Via Venezia, 8. Padua, Italy 35131   -->
 <!-- - +39 0498276519   -->
 <!-- - livio.finos@unipd.it   -->
-- [PsicoStat](http://ip146179.psy.unipd.it/psicostat/web/) + [Dept Stat Sci](http://stat.unipd.it/) + 
+- [PsicoStat](https://psicostat.dpss.psy.unipd.it/) + [Dept Stat Sci](http://stat.unipd.it/) + 
 [Padova NeuroScience Center](http://pnc.unipd.it/) 
 - +39 0498274146; 
 - `livio.finos@unipd.it`
