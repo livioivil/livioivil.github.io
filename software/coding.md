@@ -13,7 +13,31 @@ output:
 Bugs are always possible, I make my best to provide a new release averytime I found them.
 Please report bugs to: 'livio.finos@unipd.it'. Peculiarities, feedback and general queries on the use and theory of the software are also welcomed.
 
-#Packages for **Permutation tests** (and conditional resampling)
+# Packages for **Permutation tests** (and conditional resampling)
+
+## flipscores
+A R package for multivariate permutation tests.
+
+ <a mce_real_href="https://github.com/livioivil/flipscores" href="https://github.com/livioivil/flipscores">The github dev version can be found here</a>.
+
+Some example here <https://livioivil.github.io/flipscores/>
+
+<a class="mceItemAnchor" title="flipscores" href="http://cran.r-project.org/web/packages/flipscores" target="_blank" mce_real_href="http://cran.r-project.org/web/packages/flipscores">on CRAN</a>
+
+
+
+J Hemerik, JJ Goeman and L Finos (2019) Robust testing in generalized
+linear models by sign-flipping score contributions. Journal of the Royal
+Statistical Society Series B: Statistical Methodology, Volume 82, Issue
+3, July 2020, Pages 841–864.  
+<https://doi.org/10.1111/rssb.12369>
+
+R De Santis, J Goeman, J Hemerik, L Finos (2022) Inference in
+generalized linear models with robustness to misspecified variances
+arXiv: 2209.13918.  
+<https://arxiv.org/abs/2209.13918>
+
+
 
 ## flip
 A R package for multivariate permutation tests.
