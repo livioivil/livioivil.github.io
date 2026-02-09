@@ -10,7 +10,7 @@ output:
 
 - [Basics of Inference](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/README.html)
 - [Permutation Tests](https://htmlpreview.github.io/?https://github.com/livioivil/conditional_resampling/blob/master/README.html)
-- [Multiple Testing and Selective Inferfence](https://github.com/livioivil/MTP/blob/master/README.html)|
+- [Multiple Testing and Selective Inferfence](https://htmlpreview.github.io/?https://github.com/livioivil/MTP/blob/master/README.html)
  
 GitHub repositories: <https://github.com/livioivil>
 
