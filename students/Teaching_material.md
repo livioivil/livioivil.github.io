@@ -7,24 +7,13 @@ output:
 ---
 
 # Some teaching material 
-  
 
-|  Lecture    | HTML | Rmd | PDF |
-|--------------|-------|-------|-------|
-| *Hypothesis Testing and Confidence Intervals*  |  [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/inference_booklet.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/inference_booklet.Rmd)| [pdf](https://github.com/livioivil/inference_basics/blob/master/inference_booklet.pdf)|
-| *Linear Model*  |  [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.Rmd)| [pdf](https://github.com/livioivil/inference_basics/blob/master/LinearModel_booklet.pdf)|
-| *Linear Mixed Model* |  [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/LinearMixedModels_basics.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/LinearMixedModels_basics.Rmd)| [pdf ](https://github.com/livioivil/inference_basics/blob/master/LinearMixedModels_basics.pdf)|
-| *Repeated Measures and Linear Mixed Model in EEG data* |  [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/RepeatedMeasures_MixedModels_for_EEGdata.html)| [Rmd](https://github.com/livioivil/inference_basics/blob/master/RepeatedMeasures_MixedModels_for_EEGdata.Rmd)| [pdf ](https://github.com/livioivil/inference_basics/blob/master/RepeatedMeasures_MixedModels_for_EEGdata.pdf)|
-| *Multiple Testing in Neuroscience*  | [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/fMRI_multiple_testing.html)|[Rmd](https://github.com/livioivil/inference_basics/blob/master/fMRI_multiple_testing.Rmd)|[pdf](https://github.com/livioivil/inference_basics/blob/master/fMRI_multiple_testing.pdf)|  
-| *Permutation Tests*  | [html](https://htmlpreview.github.io/?https://github.com/livioivil/conditional_resampling/blob/master/perm.html)|[Rmd](https://github.com/livioivil/conditional_resampling/blob/master/perm.Rmd)|[pdf](https://github.com/livioivil/conditional_resampling/blob/master/perm.pdf)|
-| *Permutation Tests in Repeated Measures*  | [html](https://htmlpreview.github.io/?https://github.com/livioivil/conditional_resampling/blob/master/perm_repeated_measures.html)|[Rmd](https://github.com/livioivil/conditional_resampling/blob/master/perm_repeated_measures.Rmd)|[pdf](https://github.com/livioivil/conditional_resampling/blob/master/perm_repeated_measures.pdf)|
-| *Permutation Tests with nuisances (covariates)* | [(a Lab) html](https://htmlpreview.github.io/?https://github.com/livioivil/conditional_resampling/blob/master/perm_covariates_Lab.html) | [(a Lab) Rmd](https://github.com/livioivil/conditional_resampling/blob/master/perm_covariates_Lab.Rmd) | [(theory) pdf ](https://github.com/livioivil/conditional_resampling/blob/master/perm_covariates_22.pdf)|
-| *Contrasting Contrasts* | [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/Contrasting_contrasts.html)|[Rmd](https://github.com/livioivil/inference_basics/blob/master/Contrasting_contrasts.Rmd)|[pdf](https://github.com/livioivil/inference_basics/blob/master/Contrasting_contrasts.pdf)|
-| *Contrasti Contrastanti (Psicostat 18/11/2019)* (italian) | [html](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/contrastanti_e_correlati.html)|[Rmd](https://github.com/livioivil/inference_basics/blob/master/contrastanti_e_correlati.Rmd)|[pdf](https://github.com/livioivil/inference_basics/blob/master/contrastanti_e_correlati.pdf)|
+- [Basics of Inference](https://htmlpreview.github.io/?https://github.com/livioivil/inference_basics/blob/master/README.html)
+- [Permutation Tests](https://htmlpreview.github.io/?https://github.com/livioivil/conditional_resampling/blob/master/README.html)
+- [Multiple Testing and Selective Inferfence](https://github.com/livioivil/MTP/blob/master/README.html)|
  
-GitHub repository: <https://github.com/livioivil/inference_basics>
+GitHub repositories: <https://github.com/livioivil>
 
-[Notes on Permutation testing](https://htmlpreview.github.io/?https://github.com/livioivil/conditional_resampling/blob/master/perm_notes.html)
 
 <!---
 <li> Appunti del corso Classificazione e Analisi di Dati Multidimensionali (parte di Statistica Multivariata): <a href="https://dl.dropboxusercontent.com/u/2487724/CADM/DispensaMultivariata.pdf" >link to pdf</a></li> 
@@ -42,7 +31,6 @@ GitHub repository: <https://github.com/livioivil/inference_basics>
 - Modello Lineare Semplice e Multiplo. Inferenza tra permutazioni e distribuzione normale <a href="./slidesRegressione.html">slides</a>  
 - Test di permutazione - Una lezione con applicazioni tramite liberia R: flip <a href="./flipEsempio.html" >link all'html</a>
 
---->
 
 # Tesi (in italian) <a name="tesi"></a>
 
@@ -55,3 +43,4 @@ Le tesi  proposte agli studenti dei corsi di laurea in scienze statistiche seguo
 Per maggiori informazioni contattatemi.
 
 [Moodle PsicoStat](https://elearning.unipd.it/scuolapsicologia/enrol/index.php?id=961)
+--->
